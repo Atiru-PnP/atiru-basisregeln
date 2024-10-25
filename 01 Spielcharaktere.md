@@ -34,6 +34,45 @@ Konstitution ist ein Maß für die körperliche Widerstandsfähigkeit, aber auch
 | 1    | Kleinkind, Krank, schwächlich, dem Tode nahe.                                              |
 | 2    | Kind, unterdurchschnittlich, schwach, kränklich.                                           |
 | 3    | Durchschnittlich, weder besonders schwach noch besonders stark, weitgehend gesund.         |
-| 4    | Trainiert, stärker, schneller, beweglicher, gesünder.                                      |
-| 5    | Hochleistungssportler, in Bestform, agil, extrem widerstandsfähig.                         |
+| 4    | Trainiert, stärker, gesünder.                                                              |
+| 5    | Hochleistungssportler, in Bestform, extrem widerstandsfähig.                               |
 | 6    | Kollosal, für normale Menschen nicht zu überwinden, eine Naturgewalt.                      |
+
+#### Geschick
+
+Geschick zeigt an, wie Gewand sich ein Charakter durch die Welt bewegt. Das gilt dabei sowohl im Großen, wie auch im Kleinen. Hohes Geschick geht mit lautlosen und geschweidigen Bewegungen, aber auch mit einer präzisen Kontrolle über Finger und Zehen einher. Geschickte Charaktere bewegen sich schneller und haben bessere Reflexe.
+
+| Wert | Beschreibung                                                                               |
+| ---- | ------------------------------------------------------------------------------------------ |
+| 1    | Kleinkind, hat schwierigkeiten aufzustehen ohne sich zu verletzen.                         |
+| 2    | Teenager, tollpatschig, zittrig, unsicher.                                                 |
+| 3    | Durchschnittlich, kommt ohne größere Probleme duch den Tag.                                |
+| 4    | Gute Körperkontrolle, präszise Bewegungen.                                                 |
+| 5    | Perfekte Körperkontrolle, anmutige Bewegungen, tänzerische Eleganz                         |
+| 6    | Übermenschlich, Reflexe grenzen an Hellseherei.                                            |
+
+#### Charisma
+
+Charisma ist nicht nur die Fähigkeit eines Charakters andere für sich einzunehmen. Sie ist auch ein Maß für sein äußeres Erscheinungsbild, sei es nun auf gute Gene oder eine besondere Pflege (oder auch das ausbleiben derselben) zurückzuführen. Charaktere mit hohem Charisma haben auch schauspielerisches Talent und ihre Lügen sind nicht so leicht zu durchschauen. Gleichzeitig verfügen sie aber auch über hohes Einfühlungsvermögen ... ob sie dieses zum Guten oder Schlechten einsetzen bleibt natürlich ihnen überlassen.
+
+| Wert | Beschreibung                                                                               |
+| ---- | ------------------------------------------------------------------------------------------ |
+| 1    | Hässlich, vulgär, ein absoluter Aussenseiter, andere fürchten sich.                        |
+| 2    | Unansehnlich, ungehobelt, ungepflegt.                                                      |
+| 3    | Durchschnittlich, ein unauffälliger Zeitgenosse.                                           |
+| 4    | Hübsch, gute Manieren, guter Zuhörer, sympathisch.                                         |
+| 5    | Entspricht geltenden Schönheitideal, perfekte soziale Anpassung, gebohrener Anführer.      |
+| 6    | Überirdisch schön, definiert seine Umgebung, der Mittelpunkt allen Interesses.             |
+
+#### Willenskraft
+
+Willenkraft ist ein besonderes Attribut und beschreibt die Fähigkeit eines Charakters seine persönliche Integrität im Angesicht äußerer Einflüsse zu wahren. Sie kommt immer dann zum Einsatz, wenn es darum geht schier unmöglich scheinende Aufgaben zu lösen und über sich selbst hinauszuwachsen. Sie ist es auch die einen Charater vor jeweder Manipulation von Außen schützt.
+
+| Wert | Beschreibung                                                                               |
+| ---- | ------------------------------------------------------------------------------------------ |
+| 1    | Gebrochen, kein eigener Wille mehr, Sklave.                                                |
+| 2    | Devot, leicht zu manipulieren, unsicher.                                                   |
+| 3    | Durchschnittlich, folgt seinem Weg solange keine größeren Hindernisse auftauchen.          |
+| 4    | Stur, folgt seinem Pfag, setzt sich durch.                                                 |
+| 5    | Eiserner Wille, so gut wie nicht zu erschüttern, fast immun gegen äußere Einflüsse.        |
+| 6    | Ein Wille geschaffen um Völker zu führen und Welten zu erschüttern.                        |

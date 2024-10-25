@@ -8,9 +8,7 @@ Eine Probe ist immer dann nötig, wenn das Ergebnis einer von einem Charakter du
 
 **Proben sind DAS zentrale Regelnelement des Spielsystems.**
 
-<example>
-Beispiel: Miriam spielt eine Diebin und möchte durch ein Fenster im zweiten Stock klettern, um in das Haus ihres Opfers einzudringen. Um zu bestimmen ob Sie Erfolg hat muss Miriam eine Probe ablegen.
-</example>
+> Beispiel: Miriam spielt eine Diebin und möchte durch ein Fenster im zweiten Stock klettern, um in das Haus ihres Opfers einzudringen. Um zu bestimmen ob Sie Erfolg hat muss Miriam eine Probe ablegen.
 
 ### Würfelpools
 
@@ -69,7 +67,7 @@ Enthält ein Probe nach Anrechnung aller Patzer zwei oder mehr Sechser so gilt d
 Beispiel: Miriam wirft und erhält folgendes Ergebnis: 1, 2, 2, 3, 4, 6, 6, 6. Der Patzer löscht einen der Sechser aus. Also bleiben vier Erfolge, zwei davon Sechser. Die Probe gilt als spektakülärer Erfolg. Es gelingt Miriams Charakter nicht nur die Wand mit katzenhafter Anmut zu erklimmen, sondern er findet zu seinem Glück das Fester auf weit geöffnet vor.
 </example>
 
-#### Vergleichende Proben.
+#### Vergleichende Proben
 
 Immer dann, wenn Spielercharaktere gegeneinander oder gegen Nichtspielercharaktere antreten kommt es zu einer vergleichenden Probe. Am häufigsten ist dies in Kampfsituationen der Fall. 
 

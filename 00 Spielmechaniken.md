@@ -36,7 +36,7 @@ Um die Probe durchzuführen werden alle Würfel des Pools gleichzeitig geworfen.
 Damit eine Probe als voll gelungen gilt müssen mindestens zwei der geworfenen Würfel den Wert der Schwierigkeit oder einen höheren Wert zeigen und damit als Erfolg zählen.
 
 <example>
-Miriam wirft und vier der geworfenen Würfel zeigen drei oder mehr. Die Probe gilt damit als gelungen.
+*Beispiel:* Miriam wirft und vier der geworfenen Würfel zeigen drei oder mehr. Die Probe gilt damit als gelungen.
 </example>
 
 #### Auf Messers Schneide
@@ -44,7 +44,7 @@ Miriam wirft und vier der geworfenen Würfel zeigen drei oder mehr. Die Probe gi
 Zeigt nur einer der geworfenen Würfel einen Erfolg, so gilt die Probe zwar als gelungen, es gibt aber einen für den Charakter negativen Nebeneffekt, der vom Spielleiter bestimmt wird.
 
 <example>
-Miriam wirft und erzielt nur mit einem Würfel ein Ergebnis von drei oder mehr. Ihr Charakter schafft es die Wand hoch zum Fenster, macht dabei aber so viel Lärm, dass im Erdgeschoss jemand aufmerksam wird.
+*Beispiel:* Miriam wirft und erzielt nur mit einem Würfel ein Ergebnis von drei oder mehr. Ihr Charakter schafft es die Wand hoch zum Fenster, macht dabei aber so viel Lärm, dass im Erdgeschoss jemand aufmerksam wird.
 </example>
 
 #### Patzer
@@ -52,13 +52,13 @@ Miriam wirft und erzielt nur mit einem Würfel ein Ergebnis von drei oder mehr. 
 Würfel die bei einer Probe eine Eins zeigen gelten als Patzer. Jeder Patzer löscht einen Erfolg aus.
 
 <example>
-Miriam wirft und erhält folgendes Ergebnis: 1, 1, 2, 2, 3, 3, 4, 6. Die zwei Eiser löschen zwei ihrer vier Erfolge aus. Somit bleiben ihr noch zwei Erfolge übrig. Die Probe gelingt.
+*Beispiel:* Miriam wirft und erhält folgendes Ergebnis: 1, 1, 2, 2, 3, 3, 4, 6. Die zwei Eiser löschen zwei ihrer vier Erfolge aus. Somit bleiben ihr noch zwei Erfolge übrig. Die Probe gelingt.
 <example>
 
 Enthält eine Probe mehr Patzer als Erfolge gilt die ganze Probe als Patzer. Dann gelingt das Vorhaben nicht und es gibt zusätzlich einen vom Spielleiter zu bestimmenden negativen Effekt für den Charakter.
 
 <example>
-Miriam wirft und erhält folgendes Ergebnis: 1, 1, 1, 2, 2, 2, 4, 6. Die drei Patzer löschen ihre beiden Erfolge aus und es bleibt noch ein Patzer übrig. Die Probe gilt als Patzer. Ihr Charakter rutscht beim Versuch die Wand zu erklettern ab und verstaucht sich den Knöchel.
+*Beispiel:* Miriam wirft und erhält folgendes Ergebnis: 1, 1, 1, 2, 2, 2, 4, 6. Die drei Patzer löschen ihre beiden Erfolge aus und es bleibt noch ein Patzer übrig. Die Probe gilt als Patzer. Ihr Charakter rutscht beim Versuch die Wand zu erklettern ab und verstaucht sich den Knöchel.
 <example>
 
 #### Spektakuläre Erfolge
@@ -66,7 +66,7 @@ Miriam wirft und erhält folgendes Ergebnis: 1, 1, 1, 2, 2, 2, 4, 6. Die drei Pa
 Enthält ein Probe nach Anrechnung aller Patzer zwei oder mehr Sechser so gilt die Probe als spektakülärer Erfolg. Patzer löschen hierbei immer zuerst die Sechser aus, bevor die normalen Erfolge ausgelöscht werden. Ein solcher Erfolg hat neben dem gelingen der Probe noch einen vom Spielleiter zu bestimmenden postiven Nebeneffekt für den Charakter.
 
 <example>
-Miriam wirft und erhält folgendes Ergebnis: 1, 2, 2, 3, 4, 6, 6, 6. Der Patzer löscht einen der Sechser aus. Also bleiben vier Erfolge, zwei davon Sechser. Die Probe gilt als spektakülärer Erfolg. Es gelingt Miriams Charakter nicht nur die Wand mit katzenhafter Anmut zu erklimmen, sondern er findet zu seinem Glück das Fester auf weit geöffnet vor.
+*Beispiel:* Miriam wirft und erhält folgendes Ergebnis: 1, 2, 2, 3, 4, 6, 6, 6. Der Patzer löscht einen der Sechser aus. Also bleiben vier Erfolge, zwei davon Sechser. Die Probe gilt als spektakülärer Erfolg. Es gelingt Miriams Charakter nicht nur die Wand mit katzenhafter Anmut zu erklimmen, sondern er findet zu seinem Glück das Fester auf weit geöffnet vor.
 </example>
 
 #### Vergleichende Proben.

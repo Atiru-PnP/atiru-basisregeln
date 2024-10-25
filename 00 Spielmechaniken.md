@@ -72,3 +72,19 @@ Beispiel: Miriam wirft und erhält folgendes Ergebnis: 1, 2, 2, 3, 4, 6, 6, 6. D
 #### Vergleichende Proben.
 
 Immer dann, wenn Spielercharaktere gegeneinander oder gegen Nichtspielercharaktere antreten kommt es zu einer vergleichenden Probe. Am häufigsten ist dies in Kampfsituationen der Fall. 
+
+Um einen Vergleich durchführen zu können muss zunächst der Modifikator für die vergleichende Probe ermittelt werden. Dieser ist notwendig um der Tatsache Rechnung zu tragen, dass trainierte (Fertigkeiten) oder von Natur aus besser ausgestatete (Eigenschaften) Charaktere ab einem bestimmten Punkt deutliche Vorteile bei einem direkte Vergleich haben. 
+
+Vergleichende Proben werden zunächst immer gegen die Schwierigkeit 4 geworfen. (Gegen ein anderes Wesen anzutreten ist zunächst immer eine Herausforderung.) Der Modifikator ergibt sich aus der Differenz der in der Größe der Würfelpools und wird dem Charakter mit dem größeren Pool als Erleichterung auf die Schwierigkeit angerechnet und der Charater mit dem kleineren Pool als Erschwernis.
+
+| Differenz      | Modifikator |
+| -------------- | ----------- |
+| 2 oder weniger | 0           |
+| 3 bis 5        | 1           |
+| 6 oder mehr    | 2           |
+
+Nun führen bei Charaktere ihre Proben durch. Es gewinnt derjenige mit den meisten Erfolgen. Hier gibt es kein "Auf Messers Schneide" und keine "spektakulären Erfolge", nur Sieg und Niederlage. Bei Gleichstand wird die Probe wiederholt.
+
+<example>
+Beispiel: Miriam wird bei Ihrem Einbruch von einem der Hausbewohner gestellt. Es kommt zu einem Handgemenge. Miriams Charakter ist zwar geschickt (Geschick 4), hat aber keinerlei Erfahrung im waffenlosen Kampf (Waffenloser Kampf 0). Sie hat also einen Pool aus vier Würfeln. Ihr Gegner ist zwar nicht so gewandt wie sie (Geschick 3), aber er betreibt als Hobby ein wenig Kampfsport (Waffenloser Kampf 2). Er hat also einen Pool aus fünf Würfeln. Da sich die Pools der beiden nur um einen Würfel unterscheiden wird kein Modifikator auf die Schwierigkeit angewendet. Beide werfen gegen Schwiergkeit 4. Miriam wirft 3, 4, 4, 5. Der Gegner wirft: 1, 3, 4, 5, 5. Durch den Einser verliert Miriams Gegner einen Erfolg. Somit hat Miriam drei Erfolge und ihr Gegner nur zwei. Miriam schafft es ihren Gegner aus dem Gleichgewicht zu bringen und auf den Rückem zu werfen. Dadurch kann Sie fliehen.
+</example>

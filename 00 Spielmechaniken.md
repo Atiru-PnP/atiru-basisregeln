@@ -72,3 +72,17 @@ Vergleichende Proben werden zunächst immer gegen die Schwierigkeit 4 geworfen. 
 Nun führen bei Charaktere ihre Proben durch. Es gewinnt derjenige mit den meisten Erfolgen. Hier gibt es kein "Auf Messers Schneide" und keine "spektakulären Erfolge", nur Sieg und Niederlage. Bei Gleichstand wird die Probe wiederholt.
 
 > Beispiel: Miriam wird bei Ihrem Einbruch von einem der Hausbewohner gestellt. Es kommt zu einem Handgemenge. Miriams Charakter ist zwar geschickt (Geschick 4), hat aber keinerlei Erfahrung im waffenlosen Kampf (Waffenloser Kampf 0). Sie hat also einen Pool aus vier Würfeln. Ihr Gegner ist zwar nicht so gewandt wie sie (Geschick 3), aber er betreibt als Hobby ein wenig Kampfsport (Waffenloser Kampf 2). Er hat also einen Pool aus fünf Würfeln. Da sich die Pools der beiden nur um einen Würfel unterscheiden wird kein Modifikator auf die Schwierigkeit angewendet. Beide werfen gegen Schwiergkeit 4. Miriam wirft 3, 4, 4, 5. Der Gegner wirft: 1, 3, 4, 5, 5. Durch den Einser verliert Miriams Gegner einen Erfolg. Somit hat Miriam drei Erfolge und ihr Gegner nur zwei. Miriam schafft es ihren Gegner aus dem Gleichgewicht zu bringen und auf den Rückem zu werfen. Dadurch kann Sie fliehen.
+
+## Karma
+
+Karma ist ein Werkzeug für den Spielleiter um seine Spieler für besonders gelungene Aktionen und ethische Handlungen im Sinne der Geschichte zu belohnen. Von den Spielern kann das gewonnene Karma verwendet werden um das Ergebnis von Proben zu beinflussen oder negative Folgen von misslungenen Proben anzumildern oder zu verhindern.
+
+Jeder Charakter kann maximal 100 Punkte Karma aufbauen und wie folgt verwenden:
+
+| Gewünschter Effekt                                | Karmakosten in Punkten                            |
+| ------------------------------------------------- | ------------------------------------------------- |
+| Einen zusätzlichen Erfolg bei einer Probe kaufen  | Schwierigkeit der Probe * Schwierigkeit der Probe |
+| Negativen Effekt eines Patzers verhindern         | 25                                                |
+| Sichern Tod in letzer Sekunde abwenden            | 60                                                |
+
+> Beispiel: Miriam hat früher in der Geschichte ein kleines Kind unter Einsatz ihres eigenen Lebens vor einem zu schnellen Auto gerettet. Dafür hat Sie vom Spielleiter 40 Karmapunkte erhalten. Nachdem sie Ihren Gegner niedergerungen hat muss sie unbedingt fliehen und springt aus dem Fenster. Der Spielleiter verlangt eine Probe auf Athletik gegen vier bei der Sie aber nur einen Erfolg erzielt. Um negative Effekte zu verhindern kauft sie sich für 16 Karmapunkte (Schwierigkeit 4 * Schwierigkeit 4) einen weiteren Erfolg und die Probe gelingt.

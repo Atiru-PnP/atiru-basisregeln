@@ -14,9 +14,7 @@ Eine Probe ist immer dann nötig, wenn das Ergebnis einer von einem Charakter du
 
 Zur Durchführung einer Probe wird als erstes ein Würfelpool gebildet. Üblicherweise aus einer Eigenschaft und einer Fertigkeit. Beide Werte zusammen ergeben die Anzahl der zur Verfügung stehenden sechsseitigen Würfen (W6). Gegebenenfalls können durch die Verwendung geeignter Ausrüstung weitere Würfel zum Pool hinzugefügt werden.
 
-<example>
-Beispiel: Klettern gehört zu Athletik. Miriam hat vier Punkte in Geschickt (Eigenschaft) und vier Punkte in Athletik (Fertigkeit). Sie hat keine besondere Ausrüstung bei sich. Daher steht ihr für die Probe ein Pool von acht Würfeln zur Verfügung.
-</example>
+> Beispiel: Klettern gehört zu Athletik. Miriam hat vier Punkte in Geschickt (Eigenschaft) und vier Punkte in Athletik (Fertigkeit). Sie hat keine besondere Ausrüstung bei sich. Daher steht ihr für die Probe ein Pool von acht Würfeln zur Verfügung.
 
 ### Durchführung einer Probe
 
@@ -33,39 +31,29 @@ Um die Probe durchzuführen werden alle Würfel des Pools gleichzeitig geworfen.
 
 Damit eine Probe als voll gelungen gilt müssen mindestens zwei der geworfenen Würfel den Wert der Schwierigkeit oder einen höheren Wert zeigen und damit als Erfolg zählen.
 
-<example>
-Beispiel: Miriam wirft und vier der geworfenen Würfel zeigen drei oder mehr. Die Probe gilt damit als gelungen.
-</example>
+> Beispiel: Miriam wirft und vier der geworfenen Würfel zeigen drei oder mehr. Die Probe gilt damit als gelungen.
 
 #### Auf Messers Schneide
 
 Zeigt nur einer der geworfenen Würfel einen Erfolg, so gilt die Probe zwar als gelungen, es gibt aber einen für den Charakter negativen Nebeneffekt, der vom Spielleiter bestimmt wird.
 
-<example>
-Beispiel: Miriam wirft und erzielt nur mit einem Würfel ein Ergebnis von drei oder mehr. Ihr Charakter schafft es die Wand hoch zum Fenster, macht dabei aber so viel Lärm, dass im Erdgeschoss jemand aufmerksam wird.
-</example>
+> Beispiel: Miriam wirft und erzielt nur mit einem Würfel ein Ergebnis von drei oder mehr. Ihr Charakter schafft es die Wand hoch zum Fenster, macht dabei aber so viel Lärm, dass im Erdgeschoss jemand aufmerksam wird.
 
 #### Patzer
 
 Würfel die bei einer Probe eine Eins zeigen gelten als Patzer. Jeder Patzer löscht einen Erfolg aus.
 
-<example>
-Beispiel: Miriam wirft und erhält folgendes Ergebnis: 1, 1, 2, 2, 3, 3, 4, 6. Die zwei Eiser löschen zwei ihrer vier Erfolge aus. Somit bleiben ihr noch zwei Erfolge übrig. Die Probe gelingt.
-<example>
+> Beispiel: Miriam wirft und erhält folgendes Ergebnis: 1, 1, 2, 2, 3, 3, 4, 6. Die zwei Eiser löschen zwei ihrer vier Erfolge aus. Somit bleiben ihr noch zwei Erfolge übrig. Die Probe gelingt.
 
 Enthält eine Probe mehr Patzer als Erfolge gilt die ganze Probe als Patzer. Dann gelingt das Vorhaben nicht und es gibt zusätzlich einen vom Spielleiter zu bestimmenden negativen Effekt für den Charakter.
 
-<example>
-Beispiel: Miriam wirft und erhält folgendes Ergebnis: 1, 1, 1, 2, 2, 2, 4, 6. Die drei Patzer löschen ihre beiden Erfolge aus und es bleibt noch ein Patzer übrig. Die Probe gilt als Patzer. Ihr Charakter rutscht beim Versuch die Wand zu erklettern ab und verstaucht sich den Knöchel.
-<example>
+> Beispiel: Miriam wirft und erhält folgendes Ergebnis: 1, 1, 1, 2, 2, 2, 4, 6. Die drei Patzer löschen ihre beiden Erfolge aus und es bleibt noch ein Patzer übrig. Die Probe gilt als Patzer. Ihr Charakter rutscht beim Versuch die Wand zu erklettern ab und verstaucht sich den Knöchel.
 
 #### Spektakuläre Erfolge
 
 Enthält ein Probe nach Anrechnung aller Patzer zwei oder mehr Sechser so gilt die Probe als spektakülärer Erfolg. Patzer löschen hierbei immer zuerst die Sechser aus, bevor die normalen Erfolge ausgelöscht werden. Ein solcher Erfolg hat neben dem gelingen der Probe noch einen vom Spielleiter zu bestimmenden postiven Nebeneffekt für den Charakter.
 
-<example>
-Beispiel: Miriam wirft und erhält folgendes Ergebnis: 1, 2, 2, 3, 4, 6, 6, 6. Der Patzer löscht einen der Sechser aus. Also bleiben vier Erfolge, zwei davon Sechser. Die Probe gilt als spektakülärer Erfolg. Es gelingt Miriams Charakter nicht nur die Wand mit katzenhafter Anmut zu erklimmen, sondern er findet zu seinem Glück das Fester auf weit geöffnet vor.
-</example>
+> Beispiel: Miriam wirft und erhält folgendes Ergebnis: 1, 2, 2, 3, 4, 6, 6, 6. Der Patzer löscht einen der Sechser aus. Also bleiben vier Erfolge, zwei davon Sechser. Die Probe gilt als spektakülärer Erfolg. Es gelingt Miriams Charakter nicht nur die Wand mit katzenhafter Anmut zu erklimmen, sondern er findet zu seinem Glück das Fester auf weit geöffnet vor.
 
 #### Vergleichende Proben
 
@@ -83,6 +71,4 @@ Vergleichende Proben werden zunächst immer gegen die Schwierigkeit 4 geworfen. 
 
 Nun führen bei Charaktere ihre Proben durch. Es gewinnt derjenige mit den meisten Erfolgen. Hier gibt es kein "Auf Messers Schneide" und keine "spektakulären Erfolge", nur Sieg und Niederlage. Bei Gleichstand wird die Probe wiederholt.
 
-<example>
-Beispiel: Miriam wird bei Ihrem Einbruch von einem der Hausbewohner gestellt. Es kommt zu einem Handgemenge. Miriams Charakter ist zwar geschickt (Geschick 4), hat aber keinerlei Erfahrung im waffenlosen Kampf (Waffenloser Kampf 0). Sie hat also einen Pool aus vier Würfeln. Ihr Gegner ist zwar nicht so gewandt wie sie (Geschick 3), aber er betreibt als Hobby ein wenig Kampfsport (Waffenloser Kampf 2). Er hat also einen Pool aus fünf Würfeln. Da sich die Pools der beiden nur um einen Würfel unterscheiden wird kein Modifikator auf die Schwierigkeit angewendet. Beide werfen gegen Schwiergkeit 4. Miriam wirft 3, 4, 4, 5. Der Gegner wirft: 1, 3, 4, 5, 5. Durch den Einser verliert Miriams Gegner einen Erfolg. Somit hat Miriam drei Erfolge und ihr Gegner nur zwei. Miriam schafft es ihren Gegner aus dem Gleichgewicht zu bringen und auf den Rückem zu werfen. Dadurch kann Sie fliehen.
-</example>
+> Beispiel: Miriam wird bei Ihrem Einbruch von einem der Hausbewohner gestellt. Es kommt zu einem Handgemenge. Miriams Charakter ist zwar geschickt (Geschick 4), hat aber keinerlei Erfahrung im waffenlosen Kampf (Waffenloser Kampf 0). Sie hat also einen Pool aus vier Würfeln. Ihr Gegner ist zwar nicht so gewandt wie sie (Geschick 3), aber er betreibt als Hobby ein wenig Kampfsport (Waffenloser Kampf 2). Er hat also einen Pool aus fünf Würfeln. Da sich die Pools der beiden nur um einen Würfel unterscheiden wird kein Modifikator auf die Schwierigkeit angewendet. Beide werfen gegen Schwiergkeit 4. Miriam wirft 3, 4, 4, 5. Der Gegner wirft: 1, 3, 4, 5, 5. Durch den Einser verliert Miriams Gegner einen Erfolg. Somit hat Miriam drei Erfolge und ihr Gegner nur zwei. Miriam schafft es ihren Gegner aus dem Gleichgewicht zu bringen und auf den Rückem zu werfen. Dadurch kann Sie fliehen.

@@ -14,13 +14,4 @@ Bei ATIRU geht es in erster Linie eine möglichst flache Lernkurve und schnell S
 
 Dies sind aus gutem Grund nur Prizipien und keine Regeln. Mir ist bewusst, dass manchmal auch komplexere Konzept zum Einsatz kommen müssen. Dies sollte aber eine Ausnahme bleiben.
 
-## Proben
-
-Proben werden als Pool gewürfelt. Der Pool wird aus den Eigenschaften und Fertigkeiten des Charakters gebildet. Es wird immer eine Eigenschaft mit einer Fertigkeit kombiniert oder eine Eigenschaft alleine verwendet. Jeder Punkt des Pools entspricht einem W6. 
-
-Die Probe wird entweder gegen eine von Spielleiter vorgegeben Schwierigkeit geworfen oder die Schwierigkeit ergibt sich aus einem mathematischen Regelkonzept (z.B. im Kampf). Eine Probe gilt dann als gelungen, wenn mindestens zwei der Würfel die zu erreichende Schwierigkeit treffen oder darüber liegen. Zeigt nur einer der Würfel das notwendige Ergebnis ist die Probe zwar gelungen, aber dem Charakter ist irgendein Missgeschick (Spielleiter entscheidet) geschehen. Zeigt keiner der Würfel das passende Ergebnis ist die Probe gescheitert.
-
-Einsen heben erreichte Erfolge auf. Sind nach Zählung aller Ergebniss zwei oder mehr Einsen im Wurf übrig, also Einsen die keinen Erfolg aufgehoben haben, gilt die Probe als Patzer.
-
-Enthält ein Wurf nach Abzug aller Einsen zwei oder mehr Sechsen gibt die Probe als spektakuärer Erfolg.
 

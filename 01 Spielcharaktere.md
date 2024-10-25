@@ -1,16 +1,16 @@
 # ATIRU - 01 Spielcharaktere
 
-**In diesem Dokument werden sowohl die Eigenschaften und deren Anwendung (Proben) beschrieben, die einen Charakter ausmachen, als auch die Generierung neuer Charaktere erklärt.**
+**In diesem Dokument werden die Eigenschaften und grundlegenden Fertigkeiten beschrieben, die einen Charakter ausmachen.**
 
 Der Ausgangspunkt jedes PnP Regelwerks sind naturgemäß die Charaktere, welche von den Spieler im Laufe der Geschichten dargestellt werden. ATIRU legt dabei besonderen Wert darauf, dass der Spieler selbst dem Charakter seine Persönlichkeit verleiht. Die Werte auf den Charakterblatt sollen hier in erster Linie unterstützen und nicht kontrolliren. Daher sind die verschiedenen Eigenschaften bewusst übersichtlich und zurückhaltend gewählt. So bleibt genug Raum, den die Spieler durch ihr Spiel füllen können.
 
-## Basiswerte
+## Eigenschaften
 
-Die Basiswerte sind die grundlegenden Eingenschaften die einen Charakter physisch definieren. Sie sind eine Kombination aus genetischer Grundausstattung und im Laufe des Lebens durch Trainung oder auch Vernachlässigung erworbenen Veränderungen.
+Die Eigenschaften sind die grundlegenden Eingenschaften die einen Charakter physisch definieren. Sie sind eine Kombination aus genetischer Grundausstattung und im Laufe des Lebens durch Trainung oder auch Vernachlässigung erworbenen Veränderungen.
 
-### Proben auf Basiswerte
+### Proben auf Eigenschaften
 
-Proben auf Basiswerte sollten die Ausnahme sein. In aller Regel werden die Basiswerte mit einer passenden Eigenschaft kombiniert werden.
+Proben auf Eigenschaften sollten die Ausnahme sein. In aller Regel werden die Eigenschaften mit einer passenden Eigenschaft kombiniert werden.
 
 #### Intelligenz
 
@@ -76,3 +76,16 @@ Willenkraft ist ein besonderes Attribut und beschreibt die Fähigkeit eines Char
 | 4    | Stur, folgt seinem Pfag, setzt sich durch.                                                 |
 | 5    | Eiserner Wille, so gut wie nicht zu erschüttern, fast immun gegen äußere Einflüsse.        |
 | 6    | Ein Wille geschaffen um Völker zu führen und Welten zu erschüttern.                        |
+
+## Fertigkeiten
+
+Im Gegensatz zu Eigenschaften sind Fertigkeiten von eher praktischer Natur. Sie kommen zum Einsatz wenn ein Charakter mit der Spielwelt interagiert und nicht sicher ist, ob sich die Dinge in seinem Sinne entwickeln oder nicht.
+
+### Proben auf Fertigkeiten
+
+Eine Fertigkeitsprobe wird immer in Kombination mit einer passenden Eigenschaft ausgeführt. Welche das ist kann varieren und hängt von der Situation und der Entscheidung des Spielleiters ab. Ein klassisches Beispiel wäre eine Probe auf Athletik bei oft Konstitution als begleitende Eigenschaft gewählt wird. Etwa beim Klettern. Ein anderes Beispiel wäre Manipulation bei der normalerweise Charisma die begleitende Eigenschaft ist. Zu jeder Fertigkeit gibt es eine empfohlene Eigenschaft. Dies ist aber nur ein Vorschlag. Das letzte Wort hat der Spielleiter.
+
+### Körperbetonte Fertigkeiten
+
+#### Atlethik
+

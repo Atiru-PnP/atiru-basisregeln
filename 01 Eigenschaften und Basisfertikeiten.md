@@ -1,4 +1,4 @@
-# ATIRU - 01 Spielcharaktere
+# ATIRU - 01 Eigenschaften und Basisfertigkeiten
 
 **In diesem Dokument werden die Eigenschaften und grundlegenden Fertigkeiten beschrieben, die einen Charakter ausmachen.**
 
@@ -85,7 +85,57 @@ Im Gegensatz zu Eigenschaften sind Fertigkeiten von eher praktischer Natur. Sie 
 
 Eine Fertigkeitsprobe wird immer in Kombination mit einer passenden Eigenschaft ausgeführt. Welche das ist kann varieren und hängt von der Situation und der Entscheidung des Spielleiters ab. Ein klassisches Beispiel wäre eine Probe auf Athletik bei oft Konstitution als begleitende Eigenschaft gewählt wird. Etwa beim Klettern. Ein anderes Beispiel wäre Manipulation bei der normalerweise Charisma die begleitende Eigenschaft ist. Zu jeder Fertigkeit gibt es eine empfohlene Eigenschaft. Dies ist aber nur ein Vorschlag. Das letzte Wort hat der Spielleiter.
 
+### Basisfertigkeiten
+
+Basisfertigkeiten haben alle Charaktere, unabhängig von Ihrer Profession. Es sind die grundlegenden Fähigkeiten die sich unweigerlich aus körperlichen Gegebenheiten und der Entwicklung vom Kind zur Erwachsenen ergeben. Jedes Wesen erlernt grundlegende Bewegungs- und Kommunikationsmuster. In welchem Umfang diese jeweils gepflegt und verfeinert werden ist freilich von Person zu Person unterschiedlich. Die entsprechende Veranlagung ist aber grundsätzlich immer vorhanden.
+
 ### Körperbetonte Fertigkeiten
 
+...
+
 #### Atlethik
+
+...
+
+#### Fingerfertigkeit
+
+...
+
+#### Schleichen & Verstecken
+
+...
+
+### Intellektbetonte Fertikeiten
+
+...
+
+#### Logik
+
+...
+
+#### Intuition
+
+...
+
+#### Disziplin
+
+...
+
+### Soziale Fertigkeiten
+
+...
+
+#### Menschenkenntnis
+
+...
+
+#### Manipulation
+
+...
+
+#### Anpassungsfähigkeit
+
+...
+
+
 

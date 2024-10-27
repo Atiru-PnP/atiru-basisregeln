@@ -77,33 +77,29 @@ Willenkraft ist ein besonderes Attribut und beschreibt die Fähigkeit eines Char
 | 5    | Eiserner Wille, so gut wie nicht zu erschüttern, fast immun gegen äußere Einflüsse.        |
 | 6    | Ein Wille geschaffen um Völker zu führen und Welten zu erschüttern.                        |
 
-## Fertigkeiten
+## Basisfertigkeiten
 
 Im Gegensatz zu Eigenschaften sind Fertigkeiten von eher praktischer Natur. Sie kommen zum Einsatz wenn ein Charakter mit der Spielwelt interagiert und nicht sicher ist, ob sich die Dinge in seinem Sinne entwickeln oder nicht.
+
+Basisfertigkeiten haben alle Charaktere, unabhängig von Ihrer Profession. Es sind die grundlegenden Fähigkeiten die sich unweigerlich aus körperlichen Gegebenheiten und der Entwicklung vom Kind zur Erwachsenen ergeben. Jedes Wesen erlernt grundlegende Bewegungs- und Kommunikationsmuster. In welchem Umfang diese jeweils gepflegt und verfeinert werden ist freilich von Person zu Person unterschiedlich. Die entsprechende Veranlagung ist aber grundsätzlich immer vorhanden.
 
 ### Proben auf Fertigkeiten
 
 Eine Fertigkeitsprobe wird immer in Kombination mit einer passenden Eigenschaft ausgeführt. Welche das ist kann varieren und hängt von der Situation und der Entscheidung des Spielleiters ab. Ein klassisches Beispiel wäre eine Probe auf Athletik bei oft Konstitution als begleitende Eigenschaft gewählt wird. Etwa beim Klettern. Ein anderes Beispiel wäre Manipulation bei der normalerweise Charisma die begleitende Eigenschaft ist. Zu jeder Fertigkeit gibt es eine empfohlene Eigenschaft. Dies ist aber nur ein Vorschlag. Das letzte Wort hat der Spielleiter.
 
-### Basisfertigkeiten
-
-Basisfertigkeiten haben alle Charaktere, unabhängig von Ihrer Profession. Es sind die grundlegenden Fähigkeiten die sich unweigerlich aus körperlichen Gegebenheiten und der Entwicklung vom Kind zur Erwachsenen ergeben. Jedes Wesen erlernt grundlegende Bewegungs- und Kommunikationsmuster. In welchem Umfang diese jeweils gepflegt und verfeinert werden ist freilich von Person zu Person unterschiedlich. Die entsprechende Veranlagung ist aber grundsätzlich immer vorhanden.
-
 ### Körperbetonte Fertigkeiten
-
-...
 
 #### Atlethik
 
-...
+Die Fähigkeit, körperliche Herausforderungen zu meistern, sei es beim Klettern, Springen oder Schwimmen. Athletik deckt Ausdauer, Körperbeherrschung und Beweglichkeit ab und ist oft entscheidend, wenn es um den Einsatz von Kraft und Ausdauer in herausfordernden Situationen geht.
 
 #### Fingerfertigkeit
 
-...
+Die Geschicklichkeit, feine motorische Aufgaben zu erledigen, wie das Schlösserknacken, präzises Werfen oder das Manövrieren kleiner Gegenstände. Diese Fertigkeit kommt zum Einsatz, wenn Präzision und eine ruhige Hand gefragt sind.
 
 #### Schleichen & Verstecken
 
-...
+Das Talent, sich unbemerkt zu bewegen und Deckung in der Umgebung zu nutzen. Es ist hilfreich, um sich an Gegner heranzuschleichen, in der Wildnis zu verbergen oder einfach, um unauffällig zu bleiben.
 
 ### Intellektbetonte Fertikeiten
 
@@ -111,31 +107,26 @@ Basisfertigkeiten haben alle Charaktere, unabhängig von Ihrer Profession. Es si
 
 #### Logik
 
-...
+Die Fähigkeit, Probleme durch analytisches Denken zu lösen, Rätsel zu entschlüsseln oder komplexe Zusammenhänge zu verstehen. Diese Fertigkeit ist nützlich, wenn es darum geht, strategisch zu planen oder Informationen zu analysieren.
 
 #### Intuition
 
-...
+Ein Gespür für unklare Situationen und die Fähigkeit, die richtigen Schlüsse aus subtilen Hinweisen zu ziehen. Intuition kann helfen, Gefahren zu erkennen oder die wahre Absicht einer Person zu erahnen.
 
 #### Disziplin
 
-...
+Die innere Stärke, trotz Ablenkungen, Schmerzen oder Ängsten fokussiert zu bleiben. Diese Fertigkeit hilft, mentale Belastungen zu widerstehen und konzentriert zu bleiben, selbst in extremen Situationen.
 
 ### Soziale Fertigkeiten
 
-...
-
 #### Menschenkenntnis
 
-...
+Die Fähigkeit, die Gefühle und Motive anderer Personen einzuschätzen. Menschenkenntnis ist hilfreich, um Lügen zu erkennen oder die Stimmung eines Raumes richtig einzuschätzen.
 
 #### Manipulation
 
-...
+Das Geschick, andere Personen zu beeinflussen oder zu überreden. Ob beim Verhandeln, Überreden oder Täuschen, Manipulation ist eine wichtige Fertigkeit, um die eigenen Ziele durch Überzeugungskraft zu erreichen.
 
 #### Anpassungsfähigkeit
 
-...
-
-
-
+Die Fähigkeit, sich schnell an neue soziale Umgebungen oder unerwartete Situationen anzupassen. Sie hilft, sich in unterschiedlichen Kulturen oder sozialen Gruppen zurechtzufinden.

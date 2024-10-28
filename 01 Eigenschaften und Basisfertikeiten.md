@@ -83,6 +83,15 @@ Im Gegensatz zu Eigenschaften sind Fertigkeiten von eher praktischer Natur. Sie 
 
 Basisfertigkeiten haben alle Charaktere, unabhängig von Ihrer Profession. Es sind die grundlegenden Fähigkeiten die sich unweigerlich aus körperlichen Gegebenheiten und der Entwicklung vom Kind zur Erwachsenen ergeben. Jedes Wesen erlernt grundlegende Bewegungs- und Kommunikationsmuster. In welchem Umfang diese jeweils gepflegt und verfeinert werden ist freilich von Person zu Person unterschiedlich. Die entsprechende Veranlagung ist aber grundsätzlich immer vorhanden.
 
+| Wert | Beschreibung                                                                               |
+| ---- | ------------------------------------------------------------------------------------------ |
+| 1    | Anfänger, grundlegende Kenntnisse.                                                         |
+| 2    | Fortgeschritten, Hobbyist, Interessiert.                                                   |
+| 3    | Ernsthaft, vertiefte Kenntnisse, Ambitioniert.                                             |
+| 4    | Proffessionell, kann als Beruf ausgeübt werden.                                            |
+| 5    | Meister, unter den besten 10% weltweit.                                                    |
+| 6    | Guru, unter den besten 1% weltweit.                                                        |
+
 ### Proben auf Fertigkeiten
 
 Eine Fertigkeitsprobe wird immer in Kombination mit einer passenden Eigenschaft ausgeführt. Welche das ist kann varieren und hängt von der Situation und der Entscheidung des Spielleiters ab. Ein klassisches Beispiel wäre eine Probe auf Athletik bei oft Konstitution als begleitende Eigenschaft gewählt wird. Etwa beim Klettern. Ein anderes Beispiel wäre Manipulation bei der normalerweise Charisma die begleitende Eigenschaft ist. Zu jeder Fertigkeit gibt es eine empfohlene Eigenschaft. Dies ist aber nur ein Vorschlag. Das letzte Wort hat der Spielleiter.
@@ -102,8 +111,6 @@ Die Geschicklichkeit, feine motorische Aufgaben zu erledigen, wie das Schlösser
 Das Talent, sich unbemerkt zu bewegen und Deckung in der Umgebung zu nutzen. Es ist hilfreich, um sich an Gegner heranzuschleichen, in der Wildnis zu verbergen oder einfach, um unauffällig zu bleiben.
 
 ### Intellektbetonte Fertikeiten
-
-...
 
 #### Logik
 

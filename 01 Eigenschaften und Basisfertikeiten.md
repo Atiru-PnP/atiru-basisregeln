@@ -88,7 +88,7 @@ Basisfertigkeiten haben alle Charaktere, unabhängig von Ihrer Profession. Es si
 | 1    | Anfänger, grundlegende Kenntnisse.                                                         |
 | 2    | Fortgeschritten, Hobbyist, Interessiert.                                                   |
 | 3    | Ernsthaft, vertiefte Kenntnisse, Ambitioniert.                                             |
-| 4    | Proffessionell, kann als Beruf ausgeübt werden.                                            |
+| 4    | Professionell, kann als Beruf ausgeübt werden.                                            |
 | 5    | Meister, unter den besten 10% weltweit.                                                    |
 | 6    | Guru, unter den besten 1% weltweit.                                                        |
 

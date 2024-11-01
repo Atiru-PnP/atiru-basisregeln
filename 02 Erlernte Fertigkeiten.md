@@ -4,7 +4,7 @@
 
 ## Ein Wort zu Klassen
 
-ATIRU ist prinziell erst einmal ein klassenloses Spielsystem. Es gibt also keine festgelegten Typen von Charakteren die gespielt werden. Die Spieler können sich aus dem jeweils in der Welt verfügbaren Fundus an Fertigkeiten den Charakter zusammenstellen, der am besten zur gewünschten Hintergrundgeschichte passt. Als Spielleiter oder Spielgestalter steht es natürlich jedem frei mit Hilfe des Generierungssystem bestimmte Klassen vorzudefinieren, sollte das besser zu bespielten Welt passen. Aus der Erfahrung heraus würde ich aber immer zu einem flexiblen System raten, da sich Menschen in der Realität auch nicht immer nur auf einem geradlinigen Pfad bewegen, was eine vordefinierte Klasse sein würde.
+ATIRU ist prinziell erst einmal ein klassenloses Spielsystem. Es gibt also keine festgelegten Typen von Charakteren die gespielt werden. Die Spieler können sich aus dem jeweils in der Welt verfügbaren Fundus an Fertigkeiten den Charakter zusammenstellen, der am besten zur gewünschten Hintergrundgeschichte passt. Als Spielleiter oder Spielgestalter steht es natürlich jedem frei mit Hilfe des Generierungssystem bestimmte Klassen vorzudefinieren, sollte das besser zu bespielten Welt passen. Aus der Erfahrung heraus würde ich aber immer zu einem flexiblen System raten, da sich Menschen in der Realität auch nicht immer nur auf einem geradlinigen Pfad bewegen, was eine vordefinierte Klasse sein würde. Dies ist ein Test.
 
 ## Bedeutung der Werte
 
